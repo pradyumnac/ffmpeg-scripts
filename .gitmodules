@@ -1,0 +1,3 @@
+[submodule "uploadyt"]
+	path = uploadyt
+	url = git@github.com:tokland/youtube-upload.git
