@@ -12,4 +12,7 @@ As of now , for screen recordings
 `./extract-audio.sh merged/soic-continuousclasses-watchlistandbusinessupdates.03122021.mkv
 `
 
-``
+`./combine.sh soic-flourineindustry-18122021.mkv`
+
+`./upload.sh "Flourination Industry" merged/soic-flourineindustry-18122021.mkv
+`
